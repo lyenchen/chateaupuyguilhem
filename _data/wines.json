@@ -45,6 +45,16 @@
 	"location": "/assets/Château Preuillac 2016-EN.pdf",
 },
 {
+	"category": "Château PREUILLAC",
+	"year": "2017",
+	"location": "/assets/Château Preuillac 2017-EN.pdf",
+},
+{
+	"category": "Château PREUILLAC",
+	"year": "2018",
+	"location": "/assets/Château Preuillac 2018-EN.pdf",
+},
+{
 	"category": "Émotion",
 	"year": "2015",
 	"location": "/assets/Emotion Prueillac 2015-EN.pdf",
@@ -53,6 +63,16 @@
 	"category": "Émotion",
 	"year": "2016",
 	"location": "/assets/Emotion Prueillac 2016-EN.pdf",
+},
+{
+	"category": "Émotion",
+	"year": "2017",
+	"location": "/assets/Emotion Prueillac 2017-EN.pdf",
+},
+{
+	"category": "Émotion",
+	"year": "2018",
+	"location": "/assets/Emotion Prueillac 2018-EN.pdf",
 },
 {
 	"category": "Esprit",
