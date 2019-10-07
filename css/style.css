@@ -18,6 +18,10 @@ body {
   background-image: url("../img/background.png");
   font-family: 'Cormorant', serif;
   -webkit-font-smoothing: antialiased;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover
 }
 h1,
 h2,
@@ -150,7 +154,9 @@ header .navbar-default .navbar-nav li a {
 }
 }
 #home .container .media {
-  height: 600px;
+  padding-top: 30rem;
+  padding-bottom: 12rem;
+  height: 360px;
   display: flex;
   margin-top: 0.5em;
   align-items: center;
@@ -158,9 +164,10 @@ header .navbar-default .navbar-nav li a {
 }
 @media (min-width: 300px) and (max-width: 499px) {
 #home .container .media {
-  height: 300px;
+  padding-top: 10rem;
+  padding-bottom: 0;
+  height: 360px;
   display: flex;
-  margin-top: 1em;
   align-items: center;
   vertical-align: middle;
 }
