@@ -17,7 +17,7 @@ title: Château Puy Guilhem
 email: contact@chateaupreuillac.com
 description: ""
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://lyenchen.github.io/chateaupuyguilhem/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://chateaupuyguilhem.com/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  chateaupuyguilhem
 
